@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator",
+  "description": "Aplikasi kalkulator modern, elegan, dan lengkap dengan mode standar, ilmiah, riwayat perhitungan, dan konversi satuan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
